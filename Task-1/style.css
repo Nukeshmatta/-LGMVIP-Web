@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   body{
-    background-color: #4790b1;
+    background-color: #7a5bac;
     height: 35%;
     width: 550px;
     position: absolute;
@@ -60,7 +60,7 @@
     border-radius: 5px;
   }
   .task{
-    background:lightgreen;
+    background:rgb(228, 176, 6);
     height: 40px;
     padding: 5px 10px;
     border-radius: 0px;
